@@ -3,5 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/01-spring-boot-overview/01-spring-boot-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/03-setter-injection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/04-qualifiers/src/main/java" charset="UTF-8" />
   </component>
 </project>

@@ -4,8 +4,8 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/01-spring-boot-overview/01-spring-boot-demo/pom.xml" />
-        <option value="$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/02-spring-boot-spring-core/03-setter-injection/pom.xml" />
+        <option value="$PROJECT_DIR$/02-spring-boot-spring-core/04-qualifiers/pom.xml" />
       </list>
     </option>
   </component>
